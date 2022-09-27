@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - georgiamoore
+  - georgiamoore-softwire
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - georgiamoore/aston-animal-sanctuary
+  - georgiamoore/pressF-backend
+  - Emanity/pressF-frontend
+  - georgiamoore/StudyBuddy
+  - georgiamoore/Team5
+  - georgiamoore/F1-Predictor
